@@ -1,8 +1,5 @@
-# React + Vite
+# ecommerce-react-assignment
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Click [Video](https://drive.google.com/file/d/104EWESyalTjL59ZQzm0I5RzLuvFy1aDc/view?usp=sharing) to see the video of the finished product.
+- Click [Preview](https://ecommerce-react-assignment.vercel.app) to see the preview of the live project.
+- Click [Code](https://github.com/arvindjadon/ecommerce-assignment) to see the source code of the product.
